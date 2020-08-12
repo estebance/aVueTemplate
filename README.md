@@ -1,5 +1,7 @@
 # vue-template
 
+This template includes: bootstrap, vuex and the vue router. 
+
 ## Project setup
 ```
 npm install
